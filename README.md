@@ -1,1 +1,2 @@
 # pamsi
+TO jest readme
