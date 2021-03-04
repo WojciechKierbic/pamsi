@@ -1,2 +1,1 @@
-# pamsi
-TO jest readme
+Siemanko es
